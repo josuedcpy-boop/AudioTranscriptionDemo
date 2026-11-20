@@ -1,0 +1,252 @@
+[00:00:00.00 --> 00:00:06.00]  about applied ethics. So today is going to be about applied ethics. So it's not just
+[00:00:06.00 --> 00:00:16.00]  the philosophy of ethics. It's applying it to real world situations. Okay? So now, originally,
+[00:00:16.00 --> 00:00:21.00]  the professor wanted me to do ethics and governance. Today we're not going to do governance. So
+[00:00:21.00 --> 00:00:27.00]  maybe I'll come back for another class on that. But this is how you implement applied ethics
+[00:00:27.00 --> 00:00:35.00]  in policy and rules and law, etc., etc. That's it. So that's more of the governance side. So
+[00:00:35.00 --> 00:00:42.00]  today we're just going to be doing ethics. Okay? So we'll be focusing on the application of ethics for
+[00:00:42.00 --> 00:00:49.00]  AI specifically. So you don't need to really understand AI that much. But we will be talking
+[00:00:49.00 --> 00:00:54.00]  about AI under some assumptions that I have. If you're not familiar with the term, whether
+[00:00:54.00 --> 00:01:04.00]  it's AI or whatever, let me know and we'll explain it. Okay? So now, so let's first talk about
+[00:01:04.00 --> 00:01:10.00]  the form parts for today's class. So the first one our applied path is we'll be talking
+[00:01:10.00 --> 00:01:18.00]  about why is at a such a big topic right now. Why now? Why is this important for us to be
+[00:01:18.00 --> 00:01:25.00]  having this conversation? Okay? So that's the first single topic. The next thing we'll talk about is
+[00:01:25.00 --> 00:01:33.00]  I'm going to equip you with four different tools as it were to apply ethics to problems. Okay?
+[00:01:33.00 --> 00:01:39.00]  So this is a framework. This is a very well-fitted. It's been adapted from classical ethics towards AI.
+[00:01:39.00 --> 00:01:49.00]  But it's we're going to be giving you a toolbox for ethics. So that's part two. Part three is we'll be talking
+[00:01:49.00 --> 00:01:56.00]  about AI concerns. These are some of the most common concerns that people raise when we talk about AI.
+[00:01:56.00 --> 00:02:04.00]  So the good news is that we've been doing this AI stuff for a few years. And so we've
+[00:02:04.00 --> 00:02:11.00]  been doing this for few years so that we can see the difference between what we see.
+[00:02:11.00 --> 00:02:18.00]  And so we've been doing it. So we have a few limits on recurring themes in terms of issues or concerns.
+[00:02:18.00 --> 00:02:23.00]  This is not going to be exhaustive. There's always going to be more concerns but we'll be talking about
+[00:02:23.00 --> 00:02:27.00]  the seven biggest concerns that have come up. And this section four is this is where you're going to do some work.
+[00:02:27.00 --> 00:02:33.36]  We're going to apply what you've learned about the ethics tool box and the concerns.
+[00:02:33.36 --> 00:02:35.56]  I'm going to give you some scenarios.
+[00:02:35.56 --> 00:02:43.46]  You're going to use your tools to come up with what should we do with regard to that
+[00:02:43.46 --> 00:02:44.46]  scenario.
+[00:02:44.46 --> 00:02:50.72]  Now, ethics like all of philosophy, there is no absolute wrong or right.
+[00:02:50.72 --> 00:02:55.72]  This is not physics of this is not math.
+[00:02:56.28 --> 00:03:09.36]  What is good or what is bad in a philosophical argument in your ability to defend it using the terms and the concepts and the frameworks that you are given.
+[00:03:09.36 --> 00:03:12.36]  So, let's what we'll be doing.
+[00:03:12.36 --> 00:03:15.72]  Okay, so let's first talk about why now?
+[00:03:15.72 --> 00:03:22.56]  In 2022, there was a what we call the check GVK moment.
+[00:03:22.56 --> 00:03:29.32]  All of a sudden, this thing called AI that had been around kind of the background of society for decades.
+[00:03:29.32 --> 00:03:35.52]  All of a sudden became a big deal when check GVK hit the headlines.
+[00:03:35.52 --> 00:03:40.80]  They were able to get 100 million users in only two months.
+[00:03:40.80 --> 00:03:44.52]  It's the fastest growing application in history.
+[00:03:44.52 --> 00:03:46.88]  Okay, it exploded.
+[00:03:46.88 --> 00:03:52.48]  Now, even with that, it was not able to do even basic arithmetic.
+[00:03:52.48 --> 00:03:59.64]  If you were to ask it was seven times say it would tell you 54 or it would tell you 81, who knows when it would tell you.
+[00:03:59.64 --> 00:04:01.40]  So it wasn't very good.
+[00:04:01.40 --> 00:04:15.68]  But only one year later, it was passing the bar exam for the lawyers and the medical boards in the 90th percentile in just one year.
+[00:04:15.68 --> 00:04:17.32]  So it's pretty amazing.
+[00:04:17.32 --> 00:04:21.96]  One year after that was what we call the multi-modal shift.
+[00:04:21.96 --> 00:04:32.16]  It was not just text, but now it was able to see, which had the GPT 40, it was able to speak with advanced voice mode.
+[00:04:32.16 --> 00:04:36.52]  And it was able to generate some pretty dramatic videos with SOAR.
+[00:04:36.52 --> 00:04:41.16]  It was just one year after it was passing the bar exam.
+[00:04:41.16 --> 00:04:52.28]  By 2025, it was competing with rural's Bethmet mathematicians and was winning gold at the International Math Olympia.
+[00:04:52.28 --> 00:04:58.88]  I don't have one for 2026, but trust me, it's continuing to be a hockey stick in terms of the growth.
+[00:04:58.88 --> 00:05:08.72]  So that is one of the compelling reasons why we need to get our, you know, our respective handle on what's going on because of the shared growth.
+[00:05:08.72 --> 00:05:20.40]  So in February of this year was another major moment that if you were not in the AI space, you probably mentioned.
+[00:05:20.40 --> 00:05:25.60]  And that was in February of 2026 is what I call the agentic moment.
+[00:05:25.60 --> 00:05:32.56]  So prior to that, from 22 to about 2 February of 26, basically it was a chat pod.
+[00:05:32.56 --> 00:05:35.92]  It came up with a window, you would use some words.
+[00:05:35.92 --> 00:05:42.20]  It would do Nixward, you know, a prediction, or we do that on other types of tokens.
+[00:05:42.20 --> 00:05:51.40]  But in 2026, it's not that it was invented for the first time, but a project, a weekend project done by a fellow by the name of Peter Steimer,
+[00:05:51.40 --> 00:05:56.48]  called OpenClaw Storm the Internet in 2026.
+[00:05:56.48 --> 00:06:07.72]  Because now OpenClaw was not just passive, it was answer of questions, but you would give it permission to do things with your computer.
+[00:06:07.72 --> 00:06:14.36]  Now we were giving it arms and legs and ears and eyes that you didn't have before.
+[00:06:14.36 --> 00:06:20.56]  We mean metaphorically, because by the way, we still have trouble with robotics, that's my other course.
+[00:06:20.56 --> 00:06:21.56]  We'll talk about it.
+[00:06:21.56 --> 00:06:27.16]  Why robotics is still challenging to this day, but that's a different course, different class.
+[00:06:27.16 --> 00:06:32.64]  So in 2026, Peter Steimer introduced this in the Internet, but why?
+[00:06:32.64 --> 00:06:41.64]  Well since then, there have been duplications of that, but right now, the GDDI is the current state of the art.
+[00:06:41.64 --> 00:06:49.12]  And this is when it doesn't work on just a response to you, but that it can do autonomy.
+[00:06:49.12 --> 00:07:02.52]  Okay, and for my other class on the GDI artificial general intelligence, this is the last step before it becomes artificially generally intelligent by the public humans.
+[00:07:02.52 --> 00:07:08.80]  So the digital moment, by the way, Peter Steimer got bought up by OpenAI.
+[00:07:08.80 --> 00:07:16.40]  We don't know what they paid him, but at one point in time, Facebook, if you didn't already hear this story,
+[00:07:16.40 --> 00:07:20.40]  this is not 100% relevant for the counter-sacers, but it's so amazing.
+[00:07:20.40 --> 00:07:29.28]  Facebook wanted to win AI so badly that they were offering a huge amount of money to some of the top scientists.
+[00:07:29.28 --> 00:07:32.52]  You will not believe how much money we're talking about.
+[00:07:32.52 --> 00:07:37.20]  $100 million to come work for Facebook.
+[00:07:37.20 --> 00:07:46.16]  $100 million to come to work for Facebook if you were on your short list of top AI scientists.
+[00:07:46.16 --> 00:07:51.20]  That's how much money is involved in this.
+[00:07:51.20 --> 00:07:57.48]  Okay, now let's break down the ginting here right now in some kind of two parts.
+[00:07:57.48 --> 00:08:00.80]  Right now, we're still task directed.
+[00:08:00.80 --> 00:08:05.80]  That is to say, please book me a vacation with Bora Bora.
+[00:08:05.80 --> 00:08:09.12]  Here's my budget, yada yada yada, go out and do it.
+[00:08:09.12 --> 00:08:13.68]  And you can do a pretty good job, not make too many mistakes.
+[00:08:13.72 --> 00:08:21.76]  Now, where we're headed, however, is gold directed from past directed to gold directed,
+[00:08:21.76 --> 00:08:25.36]  which is a much, much broader umbrella.
+[00:08:25.36 --> 00:08:32.00]  Okay, so there will be a day when a CEO says, keep my shareholders happy.
+[00:08:32.00 --> 00:08:33.48]  That's the goal.
+[00:08:33.48 --> 00:08:35.48]  That's highly complex.
+[00:08:35.48 --> 00:08:43.64]  Many cards, many people, many operations, but we will be at a point where we're going to be gold directed.
+[00:08:43.68 --> 00:08:46.68]  Even with macro gold like that.
+[00:08:46.68 --> 00:08:49.88]  So this is something we're looking at.
+[00:08:49.88 --> 00:08:58.68]  Now, the last thing I'll say before we move on to the next slide is that SORM intelligence is a possible alternative for this AGI.
+[00:08:58.68 --> 00:09:00.36]  Now, what is SORM intelligence?
+[00:09:00.36 --> 00:09:09.88]  Faint bees in ants, where the individuals are not terribly smart, but collectively they're highly intelligent.
+[00:09:09.92 --> 00:09:15.92]  And if you can imagine highly specialized AIs that can be together and coordinated,
+[00:09:15.92 --> 00:09:23.72]  it may be a SI, artificial super intelligent, exceeding human capabilities.
+[00:09:23.72 --> 00:09:27.96]  So this is the driver right here.
+[00:09:27.96 --> 00:09:33.68]  We have the AI-gunning tab, a gap is continuing here, sorry.
+[00:09:33.72 --> 00:09:37.96]  That is the same as bottom line or the slow adopters to AI.
+[00:09:37.96 --> 00:09:41.12]  And the top line are the aggressive AI adopters.
+[00:09:41.12 --> 00:09:44.76]  And that is widening very quickly.
+[00:09:44.76 --> 00:09:45.76]  Okay?
+[00:09:45.76 --> 00:09:51.28]  And why are the aggressive AI adopters being so aggressive?
+[00:09:51.28 --> 00:09:53.64]  Well, it's human nature.
+[00:09:53.64 --> 00:09:59.76]  It's because they're looking for efficiency, scale, and profit.
+[00:09:59.76 --> 00:10:05.52]  I mean, right now there is very few large corporations that are not,
+[00:10:05.52 --> 00:10:12.20]  don't have an explicit AI agenda, because they can mean they perish,
+[00:10:12.20 --> 00:10:16.96]  or they become a trillion dollar valuation in a few years.
+[00:10:16.96 --> 00:10:18.36]  And that's the reason why.
+[00:10:18.36 --> 00:10:25.68]  Is that value gap and the fact that it's continued to expand is becoming the compelling moments
+[00:10:25.68 --> 00:10:30.48]  why now, why do we need to address those?
+[00:10:30.48 --> 00:10:35.32]  Okay, so this page right here, you're going to take some notes on.
+[00:10:35.32 --> 00:10:39.16]  This is your ethics, this tool here.
+[00:10:39.16 --> 00:10:43.40]  So now we're going to swap, we're kind of in section 2 now,
+[00:10:43.40 --> 00:10:48.28]  which is here are the various tools that you'll use for them.
+[00:10:48.28 --> 00:10:52.00]  You can use this by the way, beyond AI, you can use this for anything.
+[00:10:52.00 --> 00:10:52.68]  Okay?
+[00:10:52.68 --> 00:10:53.84]  That's an ethics.
+[00:10:53.84 --> 00:10:58.28]  But here, so I'll go over this and take a little time on this page.
+[00:10:58.28 --> 00:11:02.12]  Once I finish, there are any questions that we'll talk about.
+[00:11:02.12 --> 00:11:06.76]  There's some fancy words here that come from classical philosophy.
+[00:11:06.76 --> 00:11:07.76]  Okay?
+[00:11:07.76 --> 00:11:11.04]  The first one is you tellitarianism.
+[00:11:11.04 --> 00:11:18.04]  That's the valence scales that you see here, where they use that symbol to represent you
+[00:11:18.04 --> 00:11:23.72]  to tellitarianism, which is basically been around for hundreds of years.
+[00:11:23.72 --> 00:11:26.88]  It's the greatest good for the greatest whole.
+[00:11:26.88 --> 00:11:27.88]  Okay?
+[00:11:27.88 --> 00:11:37.96]  So something is considered ethically good if the most people, and it advantages most people
+[00:11:37.96 --> 00:11:41.04]  are greater number of people than it harms.
+[00:11:41.04 --> 00:11:48.16]  So the default value of that AI cap is utilitarianism.
+[00:11:48.16 --> 00:11:57.48]  So if, as an example, if I have, if AI driven full self driving car was smart enough,
+[00:11:57.48 --> 00:12:04.80]  and it said, oh my goodness, I'm actually having an accident, I can kill five people on
+[00:12:04.80 --> 00:12:10.12]  the crosswalk, or I can kill the driver, which one would I kill?
+[00:12:10.12 --> 00:12:16.04]  Well, from a utilitarianism perspective, I'm going to kill the driver.
+[00:12:16.04 --> 00:12:20.68]  Because you've got more people than you have in the car.
+[00:12:20.68 --> 00:12:22.56]  So that would be an easy one.
+[00:12:22.56 --> 00:12:29.00]  By the way, Hollywood usually does not go for that, and I'll talk about that in the
+[00:12:29.00 --> 00:12:30.00]  future.
+[00:12:30.00 --> 00:12:31.00]  And there's a reason for that.
+[00:12:31.00 --> 00:12:32.00]  The psychological reason for that.
+[00:12:32.00 --> 00:12:34.48]  Okay, so that one should be pretty easy to understand.
+[00:12:34.48 --> 00:12:39.08]  So that's your full tool, and when you see that symbol of scales, that's what we're going
+[00:12:39.08 --> 00:12:40.08]  to be talking about.
+[00:12:40.08 --> 00:12:44.16]  That's just kind of your flip kind of remember.
+[00:12:44.16 --> 00:12:46.08]  Now the next one is z-uncolleging.
+[00:12:46.08 --> 00:12:53.00]  Okay, that's fancy word, comes from a manual cut.
+[00:12:53.00 --> 00:13:02.24]  Okay, but the idea is that there are some things that, regardless of who the impact or
+[00:13:02.24 --> 00:13:06.08]  what the impact, these should be principles that are bad wrong.
+[00:13:06.08 --> 00:13:11.00]  For example, there is a basic principle as people have a tiny, that you don't just
+[00:13:11.00 --> 00:13:14.76]  lock people up for good, you know, for no reason.
+[00:13:14.76 --> 00:13:17.88]  Or that you make a person suffer for no reason.
+[00:13:17.88 --> 00:13:21.20]  These are just considered to be just a hard line.
+[00:13:21.20 --> 00:13:23.88]  That's a, those are not even available.
+[00:13:23.88 --> 00:13:25.96]  Nobody would normally be able to.
+[00:13:25.96 --> 00:13:32.64]  So call that the hard line, call that the principles, regardless of the outcome.
+[00:13:32.64 --> 00:13:34.12]  You just don't do that.
+[00:13:34.12 --> 00:13:35.12]  Okay.
+[00:13:35.12 --> 00:13:43.72]  And we have things like autonomy, privacy, you know, preventing pain, things like that.
+[00:13:43.72 --> 00:13:45.92]  That's just do no harm.
+[00:13:45.92 --> 00:13:49.48]  So that's the analogy, respecting rights.
+[00:13:49.48 --> 00:13:53.60]  Now the next one is contractarianism, big word.
+[00:13:53.60 --> 00:13:59.60]  And that's the idea, and the easy way to say that is the social conflict.
+[00:13:59.60 --> 00:14:07.40]  The idea of our government, most of what we do in society, in civil society is based
+[00:14:07.40 --> 00:14:09.76]  on things that we just made up.
+[00:14:09.76 --> 00:14:12.04]  It's not built into nature.
+[00:14:12.04 --> 00:14:18.88]  The idea that people should have a vote, that they should have a representational government,
+[00:14:18.88 --> 00:14:23.88]  that, you know, in one of the things we take for granted is part of it is society, when
+[00:14:23.88 --> 00:14:25.88]  it's part of government.
+[00:14:25.88 --> 00:14:30.36]  We collectively, your ancestors agree to that.
+[00:14:30.36 --> 00:14:31.36]  Okay.
+[00:14:31.36 --> 00:14:35.68]  So you may not have agreed to it, but just general, we call that the social contract.
+[00:14:35.68 --> 00:14:36.68]  Okay.
+[00:14:36.68 --> 00:14:39.16]  That is contractarianism.
+[00:14:39.16 --> 00:14:44.68]  So that can get into the, into liability, that you get into law.
+[00:14:44.68 --> 00:14:53.24]  So in some of those cases, the social contract is so important that we say it's illegal not
+[00:14:53.24 --> 00:14:55.12]  to do it.
+[00:14:55.12 --> 00:14:58.44]  So when it comes to the social contract, so those things are implicit.
+[00:14:58.44 --> 00:15:01.56]  It's kind of like, we would say it's commonstead.
+[00:15:01.56 --> 00:15:05.76]  Some things are explicit, and that's what we have laws.
+[00:15:05.76 --> 00:15:06.76]  Okay.
+[00:15:06.76 --> 00:15:09.36]  And so we, again, the social contract.
+[00:15:09.36 --> 00:15:15.04]  Now, every so often, different societies have different social norms.
+[00:15:15.04 --> 00:15:20.24]  There are some that have been somewhat universal since the beginning of civilization.
+[00:15:20.24 --> 00:15:22.28]  And it's something we have to be ridden, okay.
+[00:15:22.28 --> 00:15:23.76]  But that's what that means.
+[00:15:23.76 --> 00:15:24.76]  Okay.
+[00:15:24.76 --> 00:15:30.44]  Now the last one, it doesn't have the fancy word, or care evidence.
+[00:15:30.44 --> 00:15:37.68]  The idea is that this is a focus on essentially the vulnerable.
+[00:15:37.68 --> 00:15:40.24]  This is the most human of them.
+[00:15:40.24 --> 00:15:45.56]  Human connection, the accessibility, it's care evidence.
+[00:15:45.56 --> 00:15:49.56]  So back to what I was talking about in Hollywood.
+[00:15:49.56 --> 00:15:56.04]  Hollywood, it kind of works me as a philosopher, because what they will do, this is a common
+[00:15:56.04 --> 00:16:03.96]  trope in science fiction movies, the entire world is about to blow up, but the hero end is
+[00:16:03.96 --> 00:16:06.92]  trying to find her family and take care of family.
+[00:16:06.92 --> 00:16:12.76]  And so like five people, you know, are being taken care of in the whole planet, make blow
+[00:16:12.76 --> 00:16:13.76]  up, okay.
+[00:16:13.76 --> 00:16:16.84]  Now that's probably not a good deal.
+[00:16:16.84 --> 00:16:22.80]  But as it turns out, the people who want to go for a good time on a movie, they want
+[00:16:22.80 --> 00:16:28.64]  to think, oh well that person is caring and loving and they just, you know, so it depends
+[00:16:28.64 --> 00:16:29.64]  on what you're from.
+[00:16:29.64 --> 00:16:33.44]  But they don't go for you to look at it as an ever in Hollywood.
+[00:16:33.44 --> 00:16:36.08]  They always go for care evidence.
+[00:16:36.08 --> 00:16:42.24]  Now these four tools are sometimes incomplete.
+[00:16:42.24 --> 00:16:47.40]  So as a philosopher, as an ethicist, you're going to have to sometimes play one against
+[00:16:47.40 --> 00:16:48.40]  the other.
+[00:16:48.40 --> 00:16:54.00]  But again, as a philosopher why, you're going to be able to justify why.
+[00:16:54.00 --> 00:16:58.08]  You may be making this decision for yourself, for your family, for your corporate ratio,
+[00:16:58.08 --> 00:17:02.04]  for your government, for your plan, okay.
+[00:17:02.04 --> 00:17:06.28]  So you really want to have, you know, plot through this.
+[00:17:06.28 --> 00:17:08.36]  So that is our tool kit.
+[00:17:08.36 --> 00:17:15.36]  So I'll just keep going, assuming that there's no big questions on that one.
+[00:17:15.36 --> 00:17:16.36]  Okay.
+[00:17:16.36 --> 00:17:24.84]  So now we'll do our second framework here.
+[00:17:24.84 --> 00:17:28.60]  So this is a framework that has been adapted.
+[00:17:28.60 --> 00:17:36.52]  So there's an ethics professor at the University of Connecticut named Michael Patrick Lange.
+[00:17:36.52 --> 00:17:41.96]  And I've used this, I've created this framework based on his framework, but I've added a little
+[00:17:41.96 --> 00:17:43.28]  bit.
+[00:17:43.28 --> 00:17:48.48]  So this is a framework called the framework of concerns.
+[00:17:48.48 --> 00:17:54.08]  So it goes from psychological to psychosocial to social, okay.
+[00:17:54.08 --> 00:17:55.56]  And we break that down.
+[00:17:55.56 --> 00:17:58.16]  So some of these concerns are purely personal.
+[00:17:58.16 --> 00:18:03.08]  They're going to pack humans that human being as a person.
+[00:18:03.08 --> 00:18:09.40]  And then the psychosocial is more of the community and the social is obviously writ large.
+[00:18:09.40 --> 00:18:12.12]  It's going to be much, it's going to have a bigger impact.
+[00:18:12.12 --> 00:18:17.68]  So sometimes what we want to do is put our concerns in terms of what we call scope.
+[00:18:17.68 --> 00:18:23.48]  So it's personal scope, community scope, all the way up to social or planned scope.
+[00:18:23.48 --> 00:18:24.48]  So here are concerns.
+[00:18:24.48 --> 00:18:26.48]  So let's start with the first one.
+[00:18:26.48 --> 00:18:33.48]  I said that the psychosocial is not a problem.
+[00:18:33.48 --> 00:18:37.48]  Is it one of the few?
+[00:18:37.48 --> 00:18:40.48]  I intend that the psychosocial is not a problem.
+[00:18:40.48 --> 00:18:41.48]  Because they were thinking of issues.
+[00:18:41.48 --> 00:18:43.48]  Yeah, yeah, yeah, no, it's fine.
+[00:18:43.48 --> 00:18:44.48]  So you're going to need a tool.
+[00:18:44.48 --> 00:18:45.48]  But don't jump ahead.
+[00:18:45.48 --> 00:18:46.48]  No, jump ahead.
+[00:18:46.48 --> 00:18:47.48]  Okay.
+[00:18:47.48 --> 00:18:48.48]  So, okay.
+[00:18:48.48 --> 00:18:49.48]  So this is our basic framework.
+[00:18:49.48 --> 00:18:50.48]  You don't have to memorize the slide.
+[00:18:50.48 --> 00:18:51.48]  But you want to go back to the slide.
+[00:18:51.48 --> 00:18:52.48]  You will need this in your exercise.
+[00:18:52.48 --> 00:18:59.48]  You will need the floor, the two by two, and you will need this one.
+[00:18:59.48 --> 00:19:00.48]  Go for your exercise later.
+[00:19:00.48 --> 00:19:01.48]  Okay, so I'm glad to.
+[00:19:01.48 --> 00:19:02.48]  But now let's go through the seven.
+[00:19:02.48 --> 00:19:04.48]  Let's talk about what they are.
+[00:19:04.48 --> 00:19:07.48]  Okay, what is safety?
+[00:19:07.48 --> 00:19:13.48]  So safety is really the very, very basic.
+[00:19:13.48 --> 00:19:14.48]  Okay, that is.
+[00:19:14.48 --> 00:19:15.48]  So what is safety?
+[00:19:15.48 --> 00:19:17.48]  It's really the very, very basic.
+[00:19:17.48 --> 00:19:19.48]  Okay, that is.
+[00:19:19.48 --> 00:19:24.48]  So what it is, it's probably described as the interaction, which is being detrimental for social,
+[00:19:24.48 --> 00:19:26.48]  legal, or for other reasons.
+[00:19:26.48 --> 00:19:29.48]  So this is basic safety.
+[00:19:29.48 --> 00:19:31.48]  It's right today.
+[00:19:31.48 --> 00:19:33.48]  This is largely on the LLB.
